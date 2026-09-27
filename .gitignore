@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Compiled executables
+db_query
+park_threads
+parse_parks
+find_tables
+inspect_row
+inspect_tables
+table_context
+test_curl
+test_table
+test_xml
+
+# Object files
+*.o
+
+# SQLite database
+*.db
+
+# Generated output
+output/
+thread_output.csv
+
+# Python cache
+__pycache__/
+*.pyc
